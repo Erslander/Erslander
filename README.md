@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erslander
-- 👀 I’m interested in Web Development and  Python Dev
-- 🌱 I’m currently learning JavaScript React Python
+- 👀 I’m interested in Web Development  
+- 🌱 I’m currently learning JavaScript React 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ersanali.dev@gmail.com
 
